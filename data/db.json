@@ -1,0 +1,33 @@
+{
+  "insights": [
+    {
+      "title": "Finish the beta",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. Non consectetur a erat nam at lectus urna. Netus et malesuada fames ac turpis egestas sed tempus urna. Pharetra vel turpis nunc eget lorem. Vel eros donec ac odio tempor. .",
+      "area": "Web",
+      "pbLink": "https://excellence-alex.productboard.com/insights/all-notes/notes/23672978",
+      "id": 1032
+    },
+    {
+      "title": "Please add my request",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. Non consectetur a erat nam at lectus urna. Netus et malesuada fames ac turpis egestas sed tempus urna. Pharetra vel turpis nunc eget lorem.  ",
+      "area": "Android",
+      "pbLink": "https://excellence-alex.productboard.com/insights/all-notes/notes/23672980",
+      "id": 1033
+    },
+    {
+      "title": "Feedback title",
+      "details": "Details for feedback... ",
+      "area": "Android",
+      "pbLink": "https://excellence-alex.productboard.com/insights/all-notes/notes/23696609",
+      "id": 1034
+    }
+  ],
+  "drafts": [
+    {
+      "title": "Video calls updated ",
+      "details": "It will be very important to have group video calls moving forward, so we can adopt this across the whole org.",
+      "area": "Web",
+      "id": 1032
+    }
+  ]
+}
